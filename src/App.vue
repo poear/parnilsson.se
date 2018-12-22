@@ -65,6 +65,7 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  margin-bottom: 50px;
 }
 h1, h2 {
   font-weight: normal;
